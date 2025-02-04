@@ -9,6 +9,9 @@
 
 # Communicate using Markdown
 
+# Example or practice <h1>
+
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
@@ -50,6 +53,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+###  This is an `<h3>` header
 
 ### :keyboard: Activity: Edit your file with headers
 
